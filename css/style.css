@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-image: url("../img/mickeyBackground2.jpg");
 }
 
 h1 {
@@ -34,6 +34,7 @@ p {
 /* class selectors */
 .container {
     color: white;
+    background-color: black;
 }
 
 .mickeyMouse {
@@ -74,6 +75,14 @@ p {
     text-align: center;
 }
 
+.resume-background {
+    background-color: transparent;
+}
+
+.resumeImg {
+    border: solid black 2px;
+}
+
 /* contact page */
 form {
     margin-top: 10px;
@@ -87,6 +96,14 @@ form {
 }
 
 .portfolioPictures {
-    width: 450px;
-    height: 350px;
+    width: 350px;
+    height: 250px;
+}
+
+.border-bottom {
+    border-bottom: solid white 2px;
+}
+
+.rps {
+    /* border: solid white 1px; */
 }
