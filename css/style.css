@@ -1,3 +1,7 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
 body {
     background-image: url("../img/mickeyBackground2.jpg");
 }
@@ -27,7 +31,7 @@ p {
 }
 
 .footer {
-    background-color: rgba(253, 207, 2, 0.918);
+    background-color: rgba(253, 207, 2, 1);
     height: 50px;
 }
 
@@ -89,6 +93,10 @@ form {
     margin-bottom: 10px;
 }
 
+.send-btn {
+    margin-bottom: 10px;
+}
+
 /* portfolio page */
 .portfolioGrid {
     text-align: center;
@@ -100,8 +108,9 @@ form {
     height: 250px;
 }
 
-.border-bottom {
+.portfolio-borders {
     border-bottom: solid white 2px;
+    border-top: solid white 2px;
 }
 
 .rps {
