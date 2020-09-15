@@ -2,6 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* element tags across all pages*/
 body {
     background-image: url("../img/mickeyBackground2.jpg");
 }
@@ -30,21 +31,16 @@ p {
     font-family: 'Poppins', sans-serif;
 }
 
-.footer {
+footer {
     background-color: rgba(253, 207, 2, 1);
     height: 50px;
 }
 
-/* class selectors */
+
+/* class selectors used across all pages*/
 .container {
     color: white;
     background-color: black;
-}
-
-.mickeyMouse {
-    width: 405px;
-    height: 475px;
-    margin-right: 9px;
 }
 
 .copyright {
@@ -68,6 +64,14 @@ p {
 }
 
 
+/* home/index page */
+.mickeyMouse {
+    width: 405px;
+    height: 475px;
+    margin-right: 9px;
+}
+
+
 /* resume page */
 .downloadIcon {
     height: 30px;
@@ -87,15 +91,6 @@ p {
     border: solid black 2px;
 }
 
-/* contact page */
-form {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.send-btn {
-    margin-bottom: 10px;
-}
 
 /* portfolio page */
 .portfolioGrid {
@@ -115,4 +110,15 @@ form {
 
 .rps {
     /* border: solid white 1px; */
+}
+
+
+/* contact page */
+form {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.send-btn {
+    margin-bottom: 10px;
 }
