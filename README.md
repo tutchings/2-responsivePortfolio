@@ -6,7 +6,7 @@ Responsive design ensures that web applications render well on a variety of devi
 
 ![Screenshot of Final Project](https://github.com/tutchings/2_responsivePortfolio/blob/master/img/responsivePortfolioScreenShot.PNG)
 
-[Deployed Website Link](https://tutchings.github.io/2_responsivePortfolio/)
+[Deployed Website Link](https://tutchings.github.io/responsivePortfolio/)
 
 
 ## Directions
