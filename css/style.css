@@ -112,6 +112,10 @@ footer {
     /* border: solid white 1px; */
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 
 /* contact page */
 form {
