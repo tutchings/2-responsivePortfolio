@@ -8,6 +8,12 @@ Responsive design ensures that web applications render well on a variety of devi
 
 [Deployed Website Link](https://tutchings.github.io/responsivePortfolio/)
 
+## Languages/Frameworks
+
+* HTML
+* CSS
+* Bootstrap
+
 
 ## Directions
 
