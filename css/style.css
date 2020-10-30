@@ -33,7 +33,7 @@ p {
 
 footer {
     background-color: rgba(253, 207, 2, 1);
-    height: 50px;
+    height: 68px;
 }
 
 
@@ -46,12 +46,13 @@ footer {
 .copyright {
     margin-left: 10px;
     float: left;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .icons {
     margin-right: 10px;
     margin-bottom: 5px;
+    margin-top: 10px;
     float: right;
 }
 
@@ -125,4 +126,14 @@ form {
 
 .send-btn {
     margin-bottom: 10px;
+}
+
+.contact-container {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contact-information {
+    margin-top: 20px;
+    border-left: 2px solid white;
 }
